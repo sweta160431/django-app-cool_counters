@@ -5,7 +5,7 @@ This is a simple, minimal Django app intended to help understand the main aspect
 Clone this repository e.g.
 
 ```
-git clone git@github.com:deparkes/simple-django-app.git
+git clone git@github.com:sweta160431/django-app-cool_counters.git
 ```
 
 Navigate to the 'cool_counters' Django project:
